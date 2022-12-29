@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @dminiac  aka  **Ashish Choudhary**<br>- 👀 I am currently working as a **Software Developer** at Capgemini Technologies previously worked at Newfold Digital as **Frontend    Developer**<br>- 🌱 I’m currently learning Angular as well as **Data Engineering**<br>- 💞️ I’m looking to collaborate more on **Frontend** as well as Backend<br>- 📫 How to reach me => choudharyashish621@gmail.com || LinkedIn: linkedin.com/in/ashish-choudhary321/
+- 👋 Hi, I’m @dminiac  aka  **Ashish Choudhary**<br>- 👀 I am currently working as a **Software Developer** at Capgemini Technologies previously worked at Newfold Digital as **Frontend    Developer**<br>- 🌱 I’m currently learning Angular as well as **UI/UX Designs**<br>- 💞️ I’m looking to collaborate more on **Frontend** as well as Backend<br>- 📫 How to reach me => choudharyashish621@gmail.com || LinkedIn: linkedin.com/in/ashish-choudhary321/
 
 
 ## 🌐 Socials:
