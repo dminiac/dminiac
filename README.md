@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @dminiac  aka  **Ashish Choudhary**<br>- 👀 I am currently working as a **Senior Software Engineer** at Nagarro. Previously worked at Capgemini Technologies as a **Full Stack Engineer** and with Newfold Digital as **Frontend    Developer**<br>- 🌱 I’m currently learning Next.js as well as **UI/UX Designs**<br>- 💞️ I’m looking to collaborate more on **Frontend** as well as Backend<br>- 📫 How to reach me => choudharyashish621@gmail.com || LinkedIn: [https://linkedin.com/in/ashish-choudhary321/](https://www.linkedin.com/in/ashish-choudhary321/)
+- 👋 Hi, I’m @dminiac  aka  **Ashish Choudhary**<br>- 👀 I am currently working as a **Senior Software Engineer** at Nagarro. Previously worked at Capgemini Technologies as a **Full Stack Engineer** and with Newfold Digital as **Frontend    Developer**<br>- 🌱 I’m currently learning Next.js as well as **UI/UX Designs**<br>- 💞️ I’m looking to collaborate more on **Frontend** as well as Backend<br>- 📫 How to reach me => choudharyashish621@gmail.com || LinkedIn: [https://linkedin.com/in/ashish-choudhary321/](in/ashish-choudhary321/)
 
 
 ## 🌐 Socials:
